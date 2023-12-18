@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching
 venue: "University of California, Berkeley, Statistics"
-date: 2023-01-10
+date: 2023-01-01
 location: "Berkeley, US"
 ---
 
