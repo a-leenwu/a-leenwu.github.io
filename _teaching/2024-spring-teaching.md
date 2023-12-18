@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Student Instructor (TA) - Data C8: Foundations of Data Science"
+title: "Undergraduate Student Instructor (TA) - Data 8: Foundations of Data Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching
@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Berkeley, US"
 ---
 
-Data 8 is a large undergraduate course taken by students across many majors, from data science to public health. As a teaching assistant, I spend 12 hours per week running two 2-hour lab sections consisting of approximately 35 students each, managing 6-8 lab assistants, answering student questions in 3 hours of office hours, shadowing a course tutor's tutoring section to provide pedagogical mentorship, and proctoring and grading exams.
+As a teaching assistant, I spend 12 hours per week running two 2-hour lab sections consisting of approximately 35 students each, managing 6-8 lab assistants, answering student questions in 3 hours of office hours, shadowing a course tutor's tutoring section to provide pedagogical mentorship, and proctoring and grading exams.
 
 For more information, visit the [course website](https://www.data8.org/sp24/).
 

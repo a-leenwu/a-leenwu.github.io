@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Berkeley, US"
 ---
 
-Stat 20 is a large undergraduate course taken by students across many majors. As a course tutor, I spent 8 hours per week assisting the professor at lectures, teaching in self-led office hours and homework parties, answering questions in the online discussion forum, providing feedback on pedagogical methods, and analyzing student data.
+As a course tutor, I spent 8 hours per week assisting the professor at lectures, teaching in self-led office hours and homework parties, answering questions in the online discussion forum, providing feedback on pedagogical methods, and analyzing student data.
 
 For more information, visit the [course website](https://www.stat20.org/).
 
