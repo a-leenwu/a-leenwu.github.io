@@ -8,13 +8,12 @@ date: 2023-08-01
 location: "Berkeley, US"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Data 8 is a large undergraduate course taken by students across many majors, from data science to public health. As a course tutor, I spent 8 hours per week running two 1-hour tutoring sections with 5 students each to focus on exam-level practice problems, guiding students through assignments and conceptual ideas in office hours for 2 hours per week, discussing pedagogical best practices with other tutors and TAs, providing feedback on worksheets, proctoring exams, and grading assignments for hundreds of students.
 
-Heading 1
+For more information, visit the [course website](https://www.data8.org/fa23/).
+
+Course Topics
 ======
 
 Heading 2
-======
-
-Heading 3
 ======
