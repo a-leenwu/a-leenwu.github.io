@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! It's lovely to meet you.
+Hello! Lovely to meet you.
 
 A data-driven personal website
 ======
