@@ -1,10 +1,10 @@
 ---
-title: "Course Tutor - Statistics 20: Introduction to Statistics and Probability"
+title: "Course Tutor - Data C8: Foundations of Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-teaching
-venue: "University of California, Berkeley, Statistics"
-date: 2023-01-10
+permalink: /teaching/2023-fall-teaching
+venue: "University of California, Berkeley, Data Science"
+date: 2023-08-01
 location: "Berkeley, US"
 ---
 
