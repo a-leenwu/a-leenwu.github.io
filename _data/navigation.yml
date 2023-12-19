@@ -3,16 +3,16 @@ main:
   - title: "research"
     url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "projects"
+    url: /projects/
         
-  - title: "Blog Posts"
+  - title: "blog posts"
     url: /year-archive/
     
   - title: "cv"
