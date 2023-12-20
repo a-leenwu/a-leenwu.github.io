@@ -27,9 +27,9 @@ Statistics
 *   Sampling, bootstrapping, A/B testing
 *   Confidence intervals
 *   Hypothesis testing
-*   Linear regression, least squares, error metrics
 *   Determining causality
 
-Machine Learning
+Inference
 ------
+*   Linear regression, least squares, error metrics
 *   K-nearest neighbours classification
