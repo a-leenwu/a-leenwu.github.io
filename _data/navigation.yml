@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "cv"
-    url: ../files/Aileen_Wu_CV.pdf
+    url: /files/Aileen_Wu_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
