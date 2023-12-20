@@ -14,9 +14,17 @@ For more information, visit the [course website](https://www.stat20.org/).
 
 Course Topics
 ======
+Coding
+------
+*   R expressions, data types, vectors, data frames
+*   Using RStudio
+*   Histograms and data visualizations
 
-Heading 2
-======
-
-Heading 3
-======
+Statistics
+------
+*   Probability (expectation, variance, calculating chances)
+*   Sampling, bootstrapping, and A/B testing
+*   Confidence intervals
+*   Hypothesis testing
+*   Simple and multiple linear regression, least squares
+*   Determining causality

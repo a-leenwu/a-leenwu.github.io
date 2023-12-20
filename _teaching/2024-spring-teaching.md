@@ -14,9 +14,21 @@ For more information, visit the [course website](https://www.data8.org/sp24/).
 
 Course Topics
 ======
+Coding
+------
+*   Python and NumPy expressions, data types, arrays, and table manipulations
+*   Histograms and data visualizations
+*   Functions and iteration
 
-Heading 2
-======
+Statistics
+------
+*   Probability (calculating chances, Bayes' theorem)
+*   Sampling, bootstrapping, A/B testing
+*   Confidence intervals
+*   Hypothesis testing
+*   Linear regression, least squares, error metrics
+*   Determining causality
 
-Heading 3
-======
+Machine Learning
+------
+*   K-nearest neighbours classification
