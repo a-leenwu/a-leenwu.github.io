@@ -14,6 +14,7 @@ For more information, visit the [course website](https://www.stat20.org/).
 
 Course Topics
 ======
+
 Coding
 ------
 *   R expressions, data types, vectors, data frames

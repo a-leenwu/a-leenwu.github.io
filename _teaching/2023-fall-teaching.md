@@ -14,6 +14,7 @@ For more information, visit the [course website](https://www.data8.org/fa23/).
 
 Course Topics
 ======
+
 Coding
 ------
 *   Python and NumPy expressions, data types, arrays, and table manipulations
