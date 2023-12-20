@@ -18,7 +18,7 @@ Beyond research, I am a teaching assistant for Data 8, UC Berkeley's foundationa
 
 Coming from a social sciences and humanities background, I also love to write and was previously a News Reporter for The Daily Californian. You can read my news articles [here]("https://dailycal.org/author/aileenwu").
 
-I am passionate about the intersection of technology, social justice, and environmental justice—from data and AI ethics to creating tools that make the world a better place. If these ideas resonate with you too, feel free to reach out to me for a chat!
+I am passionate about the intersection of technology, social justice, and environmental justice—from data and AI ethics to creating tools that make the world a better place.
 
 [ignore this stuff, will delete later]
 
