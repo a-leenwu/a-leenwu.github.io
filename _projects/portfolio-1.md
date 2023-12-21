@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Java 2D Maze Escape Gama"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/61bprojscreenshot.png'>"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This game generates a random maze of rooms and hallways, and the player's goal is to complete the quest to unlock the door to escape. Players also have the ability to replay their previous game. Using object-oriented programming in Java, we built a graph data structure to randomize the placement of hallways and rooms and stored all the rooms in ArrayLists. YouTube demo [here](https://www.youtube.com/watch?v=sW-UVtx0N8Q).
