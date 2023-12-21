@@ -8,4 +8,6 @@ date: 2023-11-20
 location: "San Francisco, California"
 ---
 
-Poster presentation of our study on how overconfidence in upward mobility affects attitudes toward economic redistribution, presented at [SJDM 2023](https://sjdm.org/programs/2023-program.pdf) in San Francisco. 
+Poster presentation of our study on how overconfidence in upward mobility affects attitudes toward economic redistribution, presented at [SJDM 2023](https://sjdm.org/programs/2023-program.pdf) in San Francisco.
+
+View poster [here](https://jbaron.org/presentations/2023-Poster-Choudhari-Rene-prospects-mobility-redistribution.pdf).
