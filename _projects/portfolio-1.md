@@ -1,6 +1,6 @@
 ---
-title: "Java 2D Maze Escape Gama"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/61bprojscreenshot.png'>"
+title: "Java 2D Maze Escape Game"
+excerpt: "A partner project utilizing knowledge of data structures, interactivity, and UI design<br/><img src='/images/61bprojscreenshot.png'>"
 collection: projects
 ---
 
