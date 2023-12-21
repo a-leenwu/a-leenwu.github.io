@@ -1,7 +1,7 @@
 ---
 title: "Does the Prospect of Upward Mobility Undermine Support for Redistribution?"
 collection: talks
-type: "Conference poster"
+type: "Poster"
 permalink: /talks/2023-11-20-conference-2
 venue: "Annual Meeting of the Society for Judgment and Decision Making"
 date: 2023-11-20
