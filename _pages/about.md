@@ -10,11 +10,11 @@ redirect_from:
 
 Hello! Lovely to meet you. 🙂
 
-I am a third-year Data Science and Economics major at the University of California, Berkeley.
+I am a third-year Data Science and Economics major at the University of California, Berkeley. This summer, I am a Forensic Analytics Intern within Deloitte's Risk and Financial Advisory practice in New York City.
 
-At Berkeley, I am a behavioural economics researcher in the [Moore Accuracy Lab](https://learnmoore.org/) under Professor Don Moore, where I study whether overconfidence in upward economic mobility undermines support for redistribution. Additionally, I am an Equity in Energy and Environmental Economics Research Fellow in the [UC Berkeley Opportunity Lab and Energy Institute at Haas](https://www.olab.berkeley.edu/energyinstitute-sloan), where I am using machine learning and Bayesian modelling to determine optimal locations for future air pollution monitors with a goal of minimizing public health impacts from pollution. To learn more about my research, visit the [research](https://a-leenwu.github.io/research/) tab.
+At Berkeley, I am a behavioural economics researcher in the [Moore Accuracy Lab](https://learnmoore.org/) under Professor Don Moore, where I study whether overconfidence in upward economic mobility undermines support for redistribution. Previously, I was an Equity in Energy and Environmental Economics Research Fellow in the [UC Berkeley Opportunity Lab and Energy Institute at Haas](https://www.olab.berkeley.edu/energyinstitute-sloan), where I used machine learning and Bayesian modelling to determine optimal locations for future air pollution monitors with a goal of minimizing public health impacts from pollution. To learn more about my research, visit the [research](https://a-leenwu.github.io/research/) tab.
 
-Beyond research, I am a teaching assistant for Data 8, UC Berkeley's foundational data science course. Previously, I was a course tutor for Statistics 20, an equivalent introductory statistics and probability class that teaches R instead of Python. Read more about my teaching [here](https://a-leenwu.github.io/teaching/).
+Beyond research, I have a passion for teaching and mentorship. I am a Lead Undergraduate Student Instructor (uGSI) for Data 8, UC Berkeley's foundational data science course. Having worked my way up from Tutor to uGSI, Fall 2024 will be my third semester teaching Data 8. Previously, I was a course tutor for Statistics 20, an equivalent introductory statistics and probability class. Read more about my teaching journey [here](https://a-leenwu.github.io/teaching/).
 
 Coming from a social sciences and humanities background, I also love to write and was a News Reporter for The Daily Californian. You can read my news articles [here](https://web.archive.org/web/20230601083241/https://dailycal.org/author/aileenwu).
 
