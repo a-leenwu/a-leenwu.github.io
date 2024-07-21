@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Lovely to meet you. 🙂
 
-I am a third-year Data Science and Economics major at the University of California, Berkeley. This summer, I am a Forensic Analytics Intern within Deloitte's Risk and Financial Advisory practice in New York City.
+I am a rising fourth-year Data Science and Economics major at the University of California, Berkeley. This summer, I am a Forensic Analytics Intern within Deloitte's Risk and Financial Advisory practice in New York City.
 
 At Berkeley, I am a behavioural economics researcher in the [Moore Accuracy Lab](https://learnmoore.org/) under Professor Don Moore, where I study whether overconfidence in upward economic mobility undermines support for redistribution. Previously, I was an Equity in Energy and Environmental Economics Research Fellow in the [UC Berkeley Opportunity Lab and Energy Institute at Haas](https://www.olab.berkeley.edu/energyinstitute-sloan), where I used machine learning and Bayesian modelling to determine optimal locations for future air pollution monitors with a goal of minimizing public health impacts from pollution. To learn more about my research, visit the [research](https://a-leenwu.github.io/research/) tab.
 
