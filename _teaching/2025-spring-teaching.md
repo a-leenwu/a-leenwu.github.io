@@ -2,17 +2,17 @@
 title: "Lead Undergraduate Student Instructor - Data 8: Foundations of Data Science"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2024-fall-teaching
+permalink: /teaching/2025-spring-teaching
 venue: "University of California, Berkeley, Data Science"
-date: 2024-08-15
+date: 2025-01-15
 location: "Berkeley, US"
 ---
 
 As a Lead Undergraduate Student Instructor, I spent 20 hours per week running a 2-hour lab section consisting of approximately 35 students, answering student questions in office hours, shadowing a course tutor's tutoring section to provide pedagogical mentorship, overseeing the logistics and infrastructure of the 1000-student course, and proctoring and grading exams.
 
-My [section website](https://tinyurl.com/aileendata8sp24) contains resources I put together specifically for my lab sections.
+My [section website](https://tinyurl.com/aileen-data8) contains resources I put together specifically for my lab sections this semester.
 
-For more information, visit the [course website](https://www.data8.org/fa24/).
+For more information, visit the [course website](https://www.data8.org/sp25/).
 
 Course Topics
 ======

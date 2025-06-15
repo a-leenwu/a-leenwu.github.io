@@ -9,11 +9,11 @@ main:
   - title: "teaching"
     url: /teaching/    
     
-  - title: "projects"
-    url: /projects/
+  # - title: "projects"
+  #   url: /projects/
         
-  - title: "blog posts"
-    url: /year-archive/
+  # - title: "blog posts"
+  #   url: /year-archive/
     
   - title: "cv"
     url: /files/Aileen_Wu_CV.pdf
