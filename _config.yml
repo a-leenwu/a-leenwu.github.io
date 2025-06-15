@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aileen Wu"
   avatar           : "headshot_2024.jpg"
-  bio              : "4th-Year UC Berkeley Data Science & Economics Undergraduate"
-  location         : "Berkeley, CA"
-  employer         :
+  bio              : "UC Berkeley Economics & Data Science '25"
+  location         : "Palo Alto, CA"
+  employer         : "SIEPR Predoc"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "aileenwu@berkeley.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=1gytyE4AAAAJ"
+  email            : "aileenwu@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

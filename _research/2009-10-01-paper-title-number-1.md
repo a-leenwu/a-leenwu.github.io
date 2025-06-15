@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Does the Prospect of Upward Mobility Undermine Support for Redistribution?"
 collection: research
-permalink: /research/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /research/2025-08-01-poe
+excerpt: ''
+date: 2025-08-01
+venue: 'Journal of Public Economics'
+paperurl: 'http://a-leenwu.github.io/files/poe-paper.pdf'
+citation: 'Moore, D.A., Choudhari, R. & Wu, A. (2025). &quot;Does the Prospect of Upward Mobility Undermine Support for Redistribution?&quot; <i>Journal of Public Economics</i>. 248.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://a-leenwu.github.io/files/poe-paper.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Moore, D.A., Choudhari, R. & Wu, A. (2025). "Does the Prospect of Upward Mobility Undermine Support for Redistribution?" <i>Journal of Public Economics</i>. 248.
