@@ -1,18 +1,9 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  name        : "Aileen Wu"
+  uri         : "http://a-leenwu.github.io"
+  email       : "aileenwu@stanford.edu"
+  bio         : "I am a Pre-Doctoral Research Fellow at the Stanford University of Economic Policy Research and a recent graduate of UC Berkeley, where I studied economics and data science."
+  avatar      : "headshot_2025.jpeg"
+  twitter     : "aileenwu_"
