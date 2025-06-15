@@ -16,7 +16,7 @@ At Berkeley, I conducted research under Professor [Don Moore](https://learnmoore
 
 Beyond research, I have a passion for teaching and mentorship. I was a Lead Undergraduate Student Instructor (uGSI) for Data 8, UC Berkeley's foundational data science course, and I spent 5 semesters out of my time at Berkeley on teaching staff. Read more about my teaching journey [here](https://a-leenwu.github.io/teaching/).
 
-Outside of academics, I also love to write (you can read my news articles in The Daily Californian [here](https://web.archive.org/web/20230601083241/https://dailycal.org/author/aileenwu)) and have a deep appreciation for nature. During my free time, I love to snowboard, hike, and go camping.
+Outside of academics, I also love to write (you can read my news articles in [The Daily Californian](https://web.archive.org/web/20230601083241/https://dailycal.org/author/aileenwu)), and have a deep appreciation for nature. During my free time, I love to snowboard, hike, and go camping.
 
 My CV can be found [here](https://a-leenwu.github.io/files/Aileen_Wu_CV.pdf).
 
