@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Lovely to meet you. 🙂
+Hello! Thanks for taking the time to visit. 🙂
 
 I am a recent graduate of the University of California, Berkeley, where I received simultaneous degrees in Data Science and Economics. This summer, I will be joining the Stanford Institute for Economic Policy Research (SIEPR) as a Pre-Doctoral Research Fellow.
 
