@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Aileen Wu"
   avatar           : "headshot_2025.jpeg"
-  bio              : "UC Berkeley Economics & Data Science '25"
+  bio              : "Predoc at SIEPR | UC Berkeley Economics & Data Science '25"
   location         : "Palo Alto, CA"
-  employer         : "SIEPR Predoc"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1gytyE4AAAAJ"
   email            : "aileenwu@stanford.edu"
