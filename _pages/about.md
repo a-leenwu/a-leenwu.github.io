@@ -18,4 +18,6 @@ Beyond research, I have a passion for teaching and mentorship. I was a Lead Unde
 
 Outside of academics, I also love to write (you can read my news articles in The Daily Californian [here](https://web.archive.org/web/20230601083241/https://dailycal.org/author/aileenwu)) and have a deep appreciation for nature. During my free time, I love to snowboard, hike, and go camping.
 
+My CV can be found [here](https://a-leenwu.github.io/files/Aileen_Wu_CV.pdf).
+
 Please feel free to reach out if you'd like to connect!
