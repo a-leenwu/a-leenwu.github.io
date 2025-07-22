@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Thanks for taking the time to visit. 🙂
 
-I am a recent graduate of the University of California, Berkeley, where I received simultaneous degrees in Data Science and Economics. This summer, I will be joining the Stanford Institute for Economic Policy Research (SIEPR) as a Pre-Doctoral Research Fellow.
+I am a Pre-Doctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR). Recently, I graduated from the University of California, Berkeley with simultaneous degrees in Data Science and Economics.
 
 At Berkeley, I conducted research under Professor [Don Moore](https://learnmoore.org/) and co-authored a paper on whether overconfidence in upward economic mobility undermines support for redistribution. To learn more about my research and read the publication, visit the [research](https://a-leenwu.github.io/research/) tab.
 
