@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! Thanks for taking the time to visit. 🙂
+Hello! Thanks for visiting. 🙂
 
 I am a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR). Recently, I graduated from the University of California, Berkeley with degrees in Data Science and Economics.
 
