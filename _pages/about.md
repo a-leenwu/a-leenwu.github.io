@@ -10,13 +10,11 @@ redirect_from:
 
 Hello! Thanks for taking the time to visit. 🙂
 
-I am a Pre-Doctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR). Recently, I graduated from the University of California, Berkeley with simultaneous degrees in Data Science and Economics.
+I am a Predoctoral Research Fellow at the Stanford Institute for Economic Policy Research (SIEPR). Recently, I graduated from the University of California, Berkeley with degrees in Data Science and Economics.
 
 At Berkeley, I conducted research under Professor [Don Moore](https://learnmoore.org/) and co-authored a paper on whether overconfidence in upward economic mobility undermines support for redistribution. To learn more about my research and read the publication, visit the [research](https://a-leenwu.github.io/research/) tab.
 
-Aside from research, I have a passion for teaching and mentorship. I was a Lead Undergraduate Student Instructor (uGSI) for Data 8, UC Berkeley's foundational data science course, and I spent 5 semesters out of my time at Berkeley on teaching staff. Read more about my teaching journey [here](https://a-leenwu.github.io/teaching/).
-
-Previously, I have dabbled in industry as a summer Advisory Analyst Intern at Deloitte.
+Aside from research, I have a passion for teaching and mentorship. I was a Lead Undergraduate Student Instructor (uGSI) for Data 8, UC Berkeley's foundational data science course, and I spent 5 semesters out of my time at Berkeley on teaching staff.
 
 Beyond academics and the serious stuff, I also love to write (you can read my news articles in [The Daily Californian](https://web.archive.org/web/20230601083241/https://dailycal.org/author/aileenwu)) and have a deep appreciation for nature. During my free time, you can find me snowboarding, hiking, or camping.
 
